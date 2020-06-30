@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a0d8400_b52f2cdc",
+        "filename": "INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 99,
+      "author": {
+        "id": 481
+      },
+      "writtenOn": "2020-06-30T16:44:33Z",
+      "side": 1,
+      "message": "Please fix this character. This is not supported",
+      "range": {
+        "startLine": 99,
+        "startChar": 23,
+        "endLine": 99,
+        "endChar": 24
+      },
+      "revId": "37f462f6c1f676ca3046936cc69bf3cd29a439b3",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    }
+  ]
+}
