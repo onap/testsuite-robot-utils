@@ -1,0 +1,7 @@
+Code-Review+2: Daniel Rose <dr695h@att.com>
+Verified+1: ONAP Jobbuilder <onap-jobbuilder@jenkins.onap.org>
+Submitted-by: Morgan Richomme <morgan.richomme@orange.com>
+Submitted-at: Tue, 30 Jun 2020 07:59:22 +0000
+Reviewed-on: https://gerrit.onap.org/r/c/testsuite/robot-utils/+/109578
+Project: testsuite/robot-utils
+Branch: refs/heads/master
