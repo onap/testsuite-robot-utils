@@ -96,7 +96,7 @@ committers:
       company: 'T-Mobile'
       id: 'MichalJagielloTMPL'
       timezone: 'Europe/Warsaw'
-    - name: 'Marek Szwałkiewicz'
+    - name: 'Marek Szwalkiewicz'
       email: 'Marek.Szwalkiewicz@external.t-mobile.pl'
       company: 'T-Mobil'
       id: 'mszwalkiewicz'
