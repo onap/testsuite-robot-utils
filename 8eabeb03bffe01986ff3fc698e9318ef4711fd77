@@ -1,0 +1,8 @@
+Verified+1: ONAP Jobbuilder <onap-jobbuilder@jenkins.onap.org>
+Code-Review+1: Marek Szwałkiewicz <marek.szwalkiewicz@external.t-mobile.pl>
+Code-Review+2: Jessica Wagantall <jwagantall@linuxfoundation.org>
+Submitted-by: Morgan Richomme <morgan.richomme@orange.com>
+Submitted-at: Thu, 02 Jul 2020 07:49:43 +0000
+Reviewed-on: https://gerrit.onap.org/r/c/testsuite/robot-utils/+/109733
+Project: testsuite/robot-utils
+Branch: refs/heads/master
