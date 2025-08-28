@@ -1,0 +1,10 @@
+Code-Review+2: Thomas Kulik <thomas.kulik@telekom.de>
+Verified+1: ONAP Required GHA <releng+onap.required.gha@linuxfoundation.org>
+Verified+1: ONAP Bypass GHA <releng+onap.bypass.gha@linuxfoundation.org>
+Code-Review+2: Marek Szwa?kiewicz <marek.szwalkiewicz@external.t-mobile.pl>
+Verified+1: Thomas Kulik <thomas.kulik@telekom.de>
+Submitted-by: Thomas Kulik <thomas.kulik@telekom.de>
+Submitted-at: Thu, 28 Aug 2025 08:47:48 +0000
+Reviewed-on: https://gerrit.onap.org/r/c/testsuite/robot-utils/+/141786
+Project: testsuite/robot-utils
+Branch: refs/heads/master
